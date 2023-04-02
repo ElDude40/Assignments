@@ -1,10 +1,4 @@
-/**
-*HW01q3
-*Edward Camacho
-*1219284716
-*CSE240
-*16 March 2023
-*/
+
 
 #include <stdio.h>
 
