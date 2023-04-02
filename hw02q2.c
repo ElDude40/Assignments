@@ -1,6 +1,4 @@
-//Edward Camacho
-//1219284716
-//hw02q2
+
 
 #include <stdio.h>
 #pragma warning(disable : 4996) // needed in VS. Works like _CRT_SECURE_NO_WARNINGS.
